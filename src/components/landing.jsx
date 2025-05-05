@@ -8,7 +8,7 @@ const Landing = () => {
             <h1 className='text-4xl leading-tight font-bold '>
                 I'm {" "}
                 <span className='text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-purple-800'>Carl Kien Carabido</span>
-                , An Aspring Full-Stack Developer
+                , An Aspiring Full-Stack Developer
             </h1>
             <p className='mt-4 text-lg text-gray-300'>I specialize in logical thinking and backend development.</p>
             <div className='mt-8 space-x-4'>
